@@ -1,1 +1,3 @@
 # macheightChallenge
+
+run ´npm start´
